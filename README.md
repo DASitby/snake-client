@@ -8,7 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Game running in Node"](#https://live.staticflickr.com/65535/52378821988_d5dec157d5_z.jpg)
+!["Final github repo"](https://github.com/DASitby/snake-client)
+!["Revised server repo"](https://github.com/DASitby/snake-server)
 
 
 ## Getting Started
