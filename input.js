@@ -3,9 +3,11 @@ let connection; // Stores the active TCP connection object.
 
 //handler function to transmit the correct message on each input
 const handleUserInput = (key) => {
+  // ctrl + c will exit the program
   if (key === '\u0003') {
     process.exit();
   }
+  //w, a, s, and d will move the snake
   if (key === 'w') {
     connection.write('Move: up');
   }
@@ -18,6 +20,7 @@ const handleUserInput = (key) => {
   if (key === 'd') {
     connection.write('Move: right');
   }
+  //q, e, r, and f will trigger fun emotes
   if (key === 'q') {
     connection.write('Say: No fair!');
   }
