@@ -8,8 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["Game running in Node"](#https://live.staticflickr.com/65535/52378821988_d5dec157d5_z.jpg)
 
 
 ## Getting Started
