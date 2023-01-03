@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Final github repo"](https://github.com/DASitby/snake-client)
-!["Revised server repo"](https://github.com/DASitby/snake-server)
+[Final github repo](https://github.com/DASitby/snake-client)
+[Revised server repo](https://github.com/DASitby/snake-server)
 
 
 ## Getting Started
